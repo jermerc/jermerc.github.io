@@ -1,0 +1,10 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Open Sans';
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  height: 100%;
+  line-height: 1.6;
+  font-weight: 400;
+  font-size: 1.0em;
+}
