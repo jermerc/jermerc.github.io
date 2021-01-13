@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import '../node_modules/line-awesome/dist/line-awesome/css/line-awesome.css';
 
 ReactDOM.render(
   <React.StrictMode>
