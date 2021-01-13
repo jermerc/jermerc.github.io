@@ -1,5 +1,4 @@
 import React from 'react';
-import '../node_modules/line-awesome/dist/line-awesome/css/line-awesome.css';
 import Row from 'react-bootstrap/Row';
 import Button from 'react-bootstrap/Button'
 import Container from 'react-bootstrap/Container';

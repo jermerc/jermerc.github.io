@@ -1,3 +1,4 @@
+import '../node_modules/line-awesome/dist/line-awesome/css/line-awesome.css';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Background from './Background.js';
