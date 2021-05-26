@@ -13,7 +13,7 @@ class AboutMe extends React.Component {
                 <h6>Contact Me!</h6>
                 <p>
                     <i style={{color: "white"}} class="las la-envelope"></i><a href="mailto:jermaine.mercado7@gmail.com">Email</a>
-                    <i style={{color: "white"}} class="lar la-file"></i><a href="https://drive.google.com/file/d/1Gra014qMSC-YHad6sStr3nfPZJFHw0XV/view">Resume</a>
+                    <i style={{color: "white"}} class="lar la-file"></i><a href="https://drive.google.com/file/d/1FCdrCU85TEA7oPxxZSo6rS1BjkFMTOqW/view?usp=sharing">Resume</a>
                 </p>
 
 
